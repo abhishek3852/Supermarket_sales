@@ -16,7 +16,7 @@ Which products received the highest discounts and resulted in the lowest profits
 
 How do order trends vary across different regions and cities?
 
-What is the total number of unique customers and how often do they shop?
+What is the total number of unique customers, and how often do they shop?
 
 What are the overall sales, average sales, and total number of orders in the dataset?
 
