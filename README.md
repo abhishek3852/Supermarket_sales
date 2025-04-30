@@ -19,3 +19,23 @@ How do order trends vary across different regions and cities?
 What is the total number of unique customers and how often do they shop?
 
 What are the overall sales, average sales, and total number of orders in the dataset?
+
+
+
+Answers
+
+-Customer with the highest total sales: James from Ramanadhapuram (Category: Beverages) with ₹15,929 in sales.
+
+-Customer with the most orders: Veronica in the category Fruits & Veggies with 43 orders.
+
+-Most profitable product: Beverages → Health Drinks with ₹267,469.79 profit.
+
+-Average sales per customer: Sales range from ₹1400 to ₹1600, e.g., Aditi has ₹1602.53, and James has ₹1552.86.
+
+-Total orders per customer: 199.88 orders on average.
+
+-Average number of products per order: 1 product per order.
+
+-Profit margin by sub-category: Highest margin in Snacks → Noodles with ~26.34%, lowest in Oil & Masala → Spices with 23.82%.
+
+-Least profitable product: Eggs, Meat & Fish → Chicken with ₹124,049.89 profit.
